@@ -1,0 +1,15 @@
+@import-normalize;
+
+@import url("https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&display=swap");
+
+body {
+  background-color: #e15f41;
+  color: #fff;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "Comic Neue", cursive;
+  margin: 0;
+  padding: 0;
+}
